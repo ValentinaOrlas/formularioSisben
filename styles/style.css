@@ -1,0 +1,31 @@
+.logo {
+    position: relative;
+    top: 10px; /* Ajusta la posición vertical según tus necesidades */
+    left: 10px; /* Ajusta la posición horizontal según tus necesidades */
+  }
+  .logo img {
+    width: 250px; /* Ajusta el ancho del logotipo según tus necesidades */
+    height: auto; /* Mantiene la proporción original del logotipo */
+  }
+
+ .titulo-p{
+    text-align: center;
+    font-size:25px
+
+ }
+
+ .parte-1, .parte-2{
+    text-align: center;
+    border: 1px solid #d2b48c; 
+    margin: 8px 400px;
+    padding: 7px 20px; 
+    background-color: #ece4d8dc;
+ }
+
+
+ label {
+    display: block;
+    margin-bottom: 10px; /* Ajusta según sea necesario para el espaciado entre etiquetas */
+  }
+
+ 
